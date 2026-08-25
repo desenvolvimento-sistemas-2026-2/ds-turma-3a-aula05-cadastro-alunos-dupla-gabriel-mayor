@@ -2,27 +2,27 @@
 
 Classroom: Classroom 50  
 Assignment: aula05-cadastro-alunos-dupla  
-Equipe:  
-Turma:  
+Equipe:  liga do java  
+Turma:  desenvolvimento de sistemas 3 semestre 
 Integrante 1: Gabriel Moreira Souto Mayor  
 Integrante 2: Kaua Oliveira Marques de Queiroz  
 
 ## Divisao de tarefas
-- Integrante 1:
-- Integrante 2:
+- Integrante 1: Kaua Oliveira Marques de Queiroz-A     
+- Integrante 2: Gabriel Morerira Souto Mayor-B  
 
 ## Commits obrigatorios
-- Integrante 1 fez pelo menos um commit?
-- Integrante 2 fez pelo menos um commit?
+- Integrante 1 fez pelo menos um commit? sim   
+- Integrante 2 fez pelo menos um commit? sim  
 
 ## Testes realizados
-- Cadastro de aluno:
-- Listagem:
-- Busca por nome:
-- Validacoes:
+- Cadastro de aluno: ok    
+- Listagem: ok  
+- Busca por nome: ok    
+- Validacoes: ok  
 
 ## Dificuldades encontradas
-Descreva uma dificuldade tecnica ou de colaboracao.
+Abrir a pasta do repositorio no eclipse.
 
 ## Resultado final
-Explique o que a dupla conseguiu concluir nesta aula.
+foi concluido o que foi ordenado a gente.
