@@ -4,8 +4,8 @@ Classroom: Classroom 50
 Assignment: aula05-cadastro-alunos-dupla
 Equipe:
 Turma:
-Integrante 1:
-Integrante 2:
+Integrante 1: Gabriel Moreira Souto Mayor
+Integrante 2: Kaua Oliveira Marques de Queiroz
 
 ## Divisao de tarefas
 - Integrante 1:
